@@ -1,4 +1,4 @@
-# INDICADOR - FECHAMENTO RENKO <a href="https://github.com/leopoldocouto/ProfitChart-Nelogica/raw/main/Indicadores/LC-Fechamento-Renko/Indicador%20LC%20Fechamento%20Renko%20-%20C%C3%B3digo%20Aberto.psf" target="_blank"><img alt="Download" width ="30px" src="https://user-images.githubusercontent.com/54564254/177182371-508a14d8-2bec-48bb-940c-fbd79bc97c22.png">
+# INDICADOR - FECHAMENTO RENKO <a title="Download" href="https://github.com/leopoldocouto/ProfitChart-Nelogica/raw/main/Indicadores/LC-Fechamento-Renko/Indicador%20LC%20Fechamento%20Renko%20-%20C%C3%B3digo%20Aberto.psf" target="_blank"><img alt="Download" width ="30px" src="https://user-images.githubusercontent.com/54564254/177182371-508a14d8-2bec-48bb-940c-fbd79bc97c22.png">
 
 
 ### Desenvolvido por Leopoldo Couto em L.C. Indicadores 
