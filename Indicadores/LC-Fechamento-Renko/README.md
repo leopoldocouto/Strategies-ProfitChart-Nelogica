@@ -14,6 +14,8 @@ mudar de "Falso" para "Verdadeiro" o valor do parâmetro 'Mostrar_Linhas'
 na linha 22, ou clicando em "Sim" nos parâmetros do indicador dentro do
 gráfico.
 
+![Demonstracao Indicador - Fechamento Renko](https://user-images.githubusercontent.com/54564254/177078529-6be506c9-bd28-4f0e-a293-e8db9e4dcab5.png)
+
 
 
 
