@@ -13,8 +13,24 @@ limão e em vermelho. Para mostrar os valores em todas as linhas, basta
 mudar de "Falso" para "Verdadeiro" o valor do parâmetro 'Mostrar_Linhas' 
 na linha 22, ou clicando em "Sim" nos parâmetros do indicador dentro do
 gráfico.
-
+##
 ![Demonstracao Indicador - Fechamento Renko](https://user-images.githubusercontent.com/54564254/177078529-6be506c9-bd28-4f0e-a293-e8db9e4dcab5.png)
+Indicador mostrando na escala de preço em verde limão e vemelho
+##
+![Demonstracao Indicador 2- Fechamento Renko](https://user-images.githubusercontent.com/54564254/177161551-e9a5399c-fa17-4bff-b8ca-dc6a548f0d38.png)
+Mudando a opção nos parâmentros para mostrar os valores em todos os candle no gráfico
+##
+![Demonstracao Indicador 3- Fechamento Renko](https://user-images.githubusercontent.com/54564254/177161583-353f8dd5-93a4-4f82-abb1-f7129641183a.png)
+##
+![Demonstracao Indicador 4- Fechamento Renko](https://user-images.githubusercontent.com/54564254/177162312-b3b0b745-f11b-4b95-8f35-1753ec2cd228.png)
+Mudando a opção nos parâmentros para o candle contrário seja 2 boxes em relação ao **ANTERIOR**
+##
+![Demonstracao Indicador 5- Fechamento Renko](https://user-images.githubusercontent.com/54564254/177162345-e61d39b4-8385-444b-af2d-d71ff0ddafd2.png)
+##
+
+
+
+
 
 
 
