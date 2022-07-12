@@ -1,4 +1,4 @@
-# INDICADOR - MÁXIMA E MÍNIMA TEMPO MAIOR<a title="Download" href="https://github.com/leopoldocouto/ProfitChart-Nelogica/raw/main/Indicadores/LC-Maxima-Minima-Tempo-Maior/Indicador%20-%20LC%20Maxima%20e%20Minima%20de%20Tempo%20Maior%20-%20v12-23.psf" target="_blank"><img alt="Download" width ="30px" src="https://user-images.githubusercontent.com/54564254/177182371-508a14d8-2bec-48bb-940c-fbd79bc97c22.png">
+# INDICADOR - MÁXIMA E MÍNIMA TEMPO MAIOR <a title="Download" href="https://github.com/leopoldocouto/ProfitChart-Nelogica/raw/main/Indicadores/LC-Maxima-Minima-Tempo-Maior/Indicador%20-%20LC%20Maxima%20e%20Minima%20de%20Tempo%20Maior%20-%20v12-23.psf" target="_blank"><img alt="Download" width ="30px" src="https://user-images.githubusercontent.com/54564254/177182371-508a14d8-2bec-48bb-940c-fbd79bc97c22.png">
 
 
 ### Desenvolvido por Leopoldo Couto em L.C. Indicadores 
