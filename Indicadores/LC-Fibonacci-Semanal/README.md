@@ -1,4 +1,4 @@
-# INDICADOR - LC FIBONACCI SEMANAL <a title="Download" href="https://github.com/leopoldocouto/ProfitChart-Nelogica/blob/main/Indicadores/LC-Fibonacci-Semanal/Indicador%20LC%20Fibonacci%20Semanal%20-%20v12-23.psf" target="_blank"><img alt="Download" width ="30px" src="https://user-images.githubusercontent.com/54564254/177182371-508a14d8-2bec-48bb-940c-fbd79bc97c22.png">
+# INDICADOR - FIBONACCI SEMANAL <a title="Download" href="https://github.com/leopoldocouto/ProfitChart-Nelogica/blob/main/Indicadores/LC-Fibonacci-Semanal/Indicador%20LC%20Fibonacci%20Semanal%20-%20v12-23.psf" target="_blank"><img alt="Download" width ="30px" src="https://user-images.githubusercontent.com/54564254/177182371-508a14d8-2bec-48bb-940c-fbd79bc97c22.png">
 
 
 ### Desenvolvido por Leopoldo Couto em L.C. Indicadores 
