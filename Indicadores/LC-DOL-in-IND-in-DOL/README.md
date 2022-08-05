@@ -9,7 +9,7 @@
  
 
 ##
-* Indicador mostra o preço do Dollar no gráfico Índice. 
+* Indicador mostra o preço do Dolar no gráfico Índice. 
 * Para o gráfico do WINFUT mostrará o preço do WDOFUT, para o gráfico do WDOLFUT mostrará o preço do WINFUT.
 * Para o gráfico do INDFUT mostrará o preço do DOLFUT, para o gráfico do DOLFUT mostrará o preço do INDFUT.
 * Uma relação dos ativos é calculado a cada novo dia
