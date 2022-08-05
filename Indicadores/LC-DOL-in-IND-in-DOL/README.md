@@ -1,4 +1,4 @@
-# INDICADOR - TRÊS EM UM <a title="Download" href="https://github.com/leopoldocouto/Strategies-ProfitChart-Nelogica/blob/main/Indicadores/LC-DOL-in-IND-in-DOL/Indicador%20LC%20Dol%20in%20Win%20in%20Dol.psf" target="_blank"><img alt="Download" width ="30px" src="https://user-images.githubusercontent.com/54564254/177182371-508a14d8-2bec-48bb-940c-fbd79bc97c22.png">
+# INDICADOR - TRÊS EM UM <a title="Download" href="https://github.com/leopoldocouto/Strategies-ProfitChart-Nelogica/raw/main/Indicadores/LC-DOL-in-IND-in-DOL/Indicador%20LC%20Dol%20in%20Win%20in%20Dol.psf" ><img alt="Download" width ="30px" src="https://user-images.githubusercontent.com/54564254/177182371-508a14d8-2bec-48bb-940c-fbd79bc97c22.png">
 
 
 ### Desenvolvido por Leopoldo Couto em L.C. Indicadores 
